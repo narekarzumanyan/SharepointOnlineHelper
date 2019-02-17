@@ -1,0 +1,11 @@
+﻿<Controls:MetroWindow  x:Class="SharepointHelper.Pages.Load"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:control="clr-namespace:SharepointHelper.Control"
+        WindowStartupLocation="CenterScreen"
+        Title="PLEASE WAIT ..... "  Width="150"  Height="150"  AllowDrop="False"  ShowCloseButton="False" ShowMinButton="False" ShowMaxRestoreButton="False"  >
+    <Grid>
+
+    </Grid>
+</Controls:MetroWindow>

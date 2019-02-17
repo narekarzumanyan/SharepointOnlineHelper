@@ -1,0 +1,135 @@
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe.config
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.pdb
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.csprojResolveAssemblyReference.cache
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\App.g.cs
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_MarkupCompile.cache
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.g.resources
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.Properties.Resources.resources
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.csproj.GenerateResource.Cache
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.exe
+c:\users\narzumanyan\documents\visual studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.pdb
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Login.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Login.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Main.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Main.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Resources\Icons.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Resources\Icons.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\MahApps.Metro.dll
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\MahApps.Metro.xml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\App.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\CopyFile.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\ManageSite.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Statistics.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\CopyFile.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\ManageSite.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Statistics.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\Resources\PopularKeyWords.xlsx
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_Content.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Control\Block.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Control\Block.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Control\LoadingAnimation.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_MarkupCompile.lref
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Control\LoadingAnimation.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Load.g.cs
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\obj\Debug\Pages\Load.baml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\App_Data\UserInfo.xml
+C:\Users\narzumanyan\Documents\Visual Studio 2013\Projects\SharepointHelper\SharepointHelper\bin\Debug\App_Data\UserInfoEmpty.xml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe.config
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.exe
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.pdb
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Control\Block.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\CopyFile.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Login.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Statistics.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Resources\Icons.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\App.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Control\Block.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Control\LoadingAnimation.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\CopyFile.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Load.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Login.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Main.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ManageSite.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Statistics.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Resources\Icons.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\App.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_Content.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_MarkupCompile.cache
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_MarkupCompile.lref
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Control\LoadingAnimation.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Load.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\Main.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ManageSite.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.g.resources
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\App_Data\UserInfo.xml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\App_Data\UserInfoEmpty.xml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.pdb
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\MahApps.Metro.dll
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\MahApps.Metro.xml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.Properties.Resources.resources
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.csproj.GenerateResource.Cache
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ImportLibraries.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ImportLibraries.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ImportLibrariesFromExcel.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ImportLibrariesFromSalesForce.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ImportLibrariesFromExcel.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\ImportLibrariesFromSalesForce.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\App_Data\SalesForceConfig.xml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\CTagManager.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\CTagManager.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\log4net.dll
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\log4net.xml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe.manifest
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.application
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.exe.manifest
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.application
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.csprojResolveAssemblyReference.cache
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\NewSite.baml
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\Pages\NewSite.g.cs
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\Resources\ItemsCountTemplate.xlsx
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\Resources\PopularKeyWordsTemplate.xlsx
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\bin\Debug\Gat.Controls.AboutBox.dll
+D:\Projects\SharePoint\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.Resources.NotificationMessages.resources
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe.config
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe.manifest
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.application
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.exe
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\SharepointHelper.pdb
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\Gat.Controls.AboutBox.dll
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\log4net.dll
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\MahApps.Metro.dll
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\log4net.xml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\bin\Debug\MahApps.Metro.xml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Control\Block.baml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\App.baml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Control\Block.g.cs
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Control\LoadingAnimation.g.cs
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Pages\Load.g.cs
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Pages\Main.g.cs
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Pages\ManageEDF.g.cs
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\App.g.cs
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_MarkupCompile.cache
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper_MarkupCompile.lref
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Control\LoadingAnimation.baml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Pages\Load.baml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Pages\Main.baml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\Pages\ManageEDF.baml
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.g.resources
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.Properties.Resources.resources
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.csproj.GenerateResource.Cache
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.exe.manifest
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.application
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.exe
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.pdb
+C:\Users\narek.arzumanyan\Desktop\SharepointHelper\SharepointHelper\obj\Debug\SharepointHelper.csprojResolveAssemblyReference.cache

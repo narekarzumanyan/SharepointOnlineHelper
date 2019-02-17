@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\inetpub\wwwroot\SharepointHelper\|C:\inetpub\wwwroot\New folder\|\\localhost\inetpub\wwwroot\New folder\|\\localhost\Users\narzumanyan\Desktop\New folder\|c\</PublishUrlHistory>
+    <InstallUrlHistory>http://10.100.20.55/SharepointHelper/|http://localhost/SharepointHelper/|http://localhost/|http://10.100.20.55/New%2520folder/tes/|http://10.100.20.55/New%2520folder/test.html/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
